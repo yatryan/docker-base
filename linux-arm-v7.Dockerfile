@@ -42,6 +42,7 @@ RUN \
     php7-ftp \
     php7-json \
     php7-ldap \
+    php-mysqli \
     php7-mbstring \
     php7-openssl \
     php7-pdo_sqlite \

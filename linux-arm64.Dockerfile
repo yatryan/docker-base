@@ -43,6 +43,7 @@ RUN \
     php7-json \
     php7-ldap \
     php7-mbstring \
+    php-mysqli \
     php7-openssl \
     php7-pdo_sqlite \
     php7-session \
